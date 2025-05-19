@@ -139,13 +139,13 @@ a{
 
 .logo {
   position: absolute;
-  top: 8px;
+  top: 18px;
   left: 10px;
   z-index: 4;
 }
 
 .logo img{
-  width: 70px;
+  width: 50px;
 }
 
 .wrapper{
