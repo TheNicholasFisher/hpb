@@ -173,7 +173,7 @@ a{
   margin: auto;
   position: relative;
   top: 30vh;
-  -webkit-animation: scale 1s infinite;
+  
 }
 
 @-webkit-keyframes wrapper  {
